@@ -38,4 +38,4 @@ email: info@elog.id
 
 **Copyright (c) 2017 eLogistik System Indonesia** - [eLog.id](http://www.elog.id)
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](../LICENSE) file for details

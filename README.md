@@ -5,8 +5,10 @@
 [![MIT](https://img.shields.io/dub/l/vibe-d.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
 ## About
+Ditch the lengthy message threads, disruptive calls, out of place spreadsheets and clunky software to run your operations
 
 ## Demo
+[Demo](https://server2.elog.id/elcar/)
 
 ## Directory Structure
 

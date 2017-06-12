@@ -1,4 +1,4 @@
-# Elcar
+# Elcar (DriverApp)
 
 [![GitHub issues](https://img.shields.io/github/issues/eLogID/elcar.svg?style=flat-square)](https://github.com/eLogID/elcar/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/eLogID/elcar/pulls)
@@ -11,28 +11,14 @@
 ## Directory Structure
 
 ```bash
-├── /.idea/
+├── /css/
 │ ├── /inspectionProfiles/
 │ │ └── Project_Default.xml
-│ ├── elcar.iml
+│ ├── elcar_f7.iml
 │ ├── misc.xml
 │ ├── modules.xml
 │ ├── vcs.xml
 │ └── workspace.html
-├── /Driver/
-│ ├── /css/
-│ │ ├── app.css
-│ │ ├── font-awesome.min.css
-│ │ ├── login.css
-│ │ └── welcomescreen.css
-│ ├── /f7/
-
-│ ├── /js/
-│ ├── LICENSE
-│ └── README.md
-├── /Manager/
-├── /WebClient/
-├── /WebService/
 ├── LICENSE
 └── README.md
 ```

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a2ca7d3d-d34e-4739-92a0-e68b089e0890" name="elcar_vps" url="http://45.114.118.51">
+        <fileTransfer host="45.114.118.51" port="22" rootFolder="/home/elog/sites/html/elcar_v2" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

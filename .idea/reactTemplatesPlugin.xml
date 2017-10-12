@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RTProjectComponent">
+    <option name="rtExecutable" value="C:\Users\isnaeni.hidayat\AppData\Roaming\npm\rt.cmd" />
+    <option name="nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
+    <option name="targetVersion" value="15.0.1" />
+    <option name="pluginEnabled" value="true" />
+    <option name="reactNative" value="true" />
+  </component>
+</project>
